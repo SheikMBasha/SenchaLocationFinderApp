@@ -1,0 +1,34 @@
+﻿{
+    "guests": [
+        {
+            "guestId": 1,
+            "guestName": "Alberto Albiato",
+            "guestOrigin": "Italy"
+        },
+        {
+            "guestId": 2,
+            "guestName": "Riccardo Gomez",
+            "guestOrigin": "Spain"
+        },
+        {
+            "guestId": 3,
+            "guestName": "Rosalia Tomaso",
+            "guestOrigin": "Switzerland"
+        },
+        {
+            "guestId": 4,
+            "guestName": "Gaston Le Grand",
+            "guestOrigin": "France"
+        },
+        {
+            "guestId": 5,
+            "guestName": "Roberto Mazone",
+            "guestOrigin": "Italy"
+        },
+        {
+            "guestId": 6,
+            "guestName": "Andrea Matotti",
+            "guestOrigin": "Italy"
+        }
+    ]
+}
